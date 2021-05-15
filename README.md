@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Frontend Peojects
+- 🔭 I’m currently working on Frontend Projects
 - 🌱 I’m currently learning REACTJS
 - My Favorite Projects
 
