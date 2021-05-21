@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Frontend Projects
-- 🌱 I’m currently learning REACTJS
+- 🌱 I’m currently learning ReactJS
 - Hobby Projects
 
     [Vinayak-Magical-Resume](https://vinayak-s-magical-resume.netlify.app/)
