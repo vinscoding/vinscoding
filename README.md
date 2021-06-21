@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Frontend Projects
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on NextJs Projects
+
 - Hobby Projects
 
     [Desktop-Food-Order-React-App](https://vinscoding-desktop-food-order-app.netlify.app/)
